@@ -1,4 +1,4 @@
-Certainly! Inheritance in Python allows us to define a class that inherits all the methods and properties from another class. In this example, I'll create a base class `Book` and then define several subclasses such as `History`, `Technology`, `SpyFiction`, `Cooking`, and `HomeCare`. Each subclass can have additional attributes or methods specific to its category.
+ Inheritance in Python allows us to define a class that inherits all the methods and properties from another class. In this example, I'll create a base class `Book` and then define several subclasses such as `History`, `Technology`, `SpyFiction`, `Cooking`, and `HomeCare`. Each subclass can have additional attributes or methods specific to its category.
 
 ### Python Inheritance Example:
 
